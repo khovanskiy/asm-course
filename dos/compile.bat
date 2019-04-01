@@ -1,0 +1,1 @@
+link dos.obj /subsystem:console /libpath:"C:\Program Files (x86)\Microsoft Studio 11.0\VC\lib" kernel32.lib user32.lib /entry:main
